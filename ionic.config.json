@@ -1,0 +1,7 @@
+{
+  "name": "learndeployionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
